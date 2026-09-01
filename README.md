@@ -50,3 +50,4 @@ mini_sumo_RC/
 - Adicionar LEDs de feedback (Debug)
 - Adicionar IMU para girar com precisão (PID)
 - Adicionar OTA para gravar sem cabo (wifi_OTA)
+- Adicionar BLE serial para debugar por bluetooth e não precisar de um cabo conectado
