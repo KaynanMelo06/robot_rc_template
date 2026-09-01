@@ -1,0 +1,9 @@
+# PlatformIO — build e dependências (gerados automaticamente, não versionar)
+.pio/
+
+# VS Code — configurações locais
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
