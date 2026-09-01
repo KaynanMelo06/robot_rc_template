@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/framework-Arduino-teal)
 ![Build](https://img.shields.io/badge/build-PlatformIO-orange)
 
-Ponto de partida para um robô controlado por rádio usando ESP32-S3
+Ponto de partida para um robô rc usando ESP32-S3
 e controle Xbox Series X/S via Bluetooth.
 
 ## Pré-requisitos
